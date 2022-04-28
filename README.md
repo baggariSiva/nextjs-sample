@@ -1,7 +1,7 @@
 # NextJs example demo CI/CD pipeline
 
 
-<a href="https://dash.elest.io/deploy?source=cicd&social=Github&url=https://github.com/elestio-examples/nextjs"><img src="public\deploy-on-elestio.png" alt="Deploy on Platform.sh" width="180px" /></a>
+<a href="https://dash.elest.io/deploy?source=cicd&social=Github&url=https://github.com/elestio-examples/nextjs"><img src="public\deploy-on-elestio.png" alt="Deploy on Elestio.io" width="180px" /></a>
 
 Example application and CI/CD pipeline showing how to deploy a NextJs website to elestio.
 
