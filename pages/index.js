@@ -24,7 +24,6 @@ export default function Home() {
         })
         .catch(function (error) {
           console.log("error", error);
-          //clearInterval(timerLatency)
           setDetails((prevState) => {
             return {
               ...prevState,
