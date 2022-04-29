@@ -1,10 +1,10 @@
 config:
-    runTime: 'NodeJs'
-    version: ''
-    framework: 'NextJs'
-    buildCommand: 'npm run build'
-    buildDir: '.next/'
-    runCommand: 'npm start'
+  runTime: "NodeJs"
+  version: ""
+  framework: "NextJs"
+  buildCommand: "yarn build"
+  buildDir: ".next/"
+  runCommand: "yarn start"
 ports:
   - protocol: "HTTPS"
     targetProtocol: "HTTP"
@@ -16,5 +16,5 @@ ports:
     login: ""
     password: ""
 environments:
-    -  key: 'ENV'
-       value: 'production'
+  - key: "ENV"
+    value: "production"
